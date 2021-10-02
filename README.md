@@ -25,7 +25,7 @@ Semoga bisa mengurangi dosa - dosa hamba
 # DEPLOY
 
 <b>
-<a href=https://github.com/DarkDevil1265/quranbotrj"https://heroku.com/deploy?template="><img src="https://img.shields.io/badge/develop to heroku-brown?style=badge&logo=heroku"width="100" height="25"/></a>
+<a href=https://github.com/DarkDevil1265/quranbotrj"https://heroku.com/deploy?template="><img src="https://img.shields.io/badge/develop to heroku-brown?style=badge&logo=heroku"width="250" height="25"/></a>
 </b>
 
 ### TEMUKAN KAMI DI TELEGRAM
